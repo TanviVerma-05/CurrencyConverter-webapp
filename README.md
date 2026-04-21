@@ -16,9 +16,9 @@ A simple and interactive "Currency Converter" built using HTML, CSS, and JavaScr
 - JavaScript (Fetch API)
 
 ## Preview
-<img src="assets/ui(1).png" width="300" height="200"/>
-<img src="assets/ui(2).png" width="300" height="200"/>
-<img src="assets/ui(3).png" width="300" height="200"/>
+<img src="assets/ui(1).png" width="300" height="350"/>
+<img src="assets/ui(2).png" width="300" height="350"/>
+<img src="assets/ui(3).png" width="300" height="350"/>
 
 ## Learnings
 - DOM Manipulation
