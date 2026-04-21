@@ -1,7 +1,7 @@
 
 # Currency Converter Web App
 
-A simple and interactive Currency Converter built using HTML, CSS, and JavaScript with real-time exchange rates.
+A simple and interactive "Currency Converter" built using HTML, CSS, and JavaScript with real-time exchange rates.
 
 ## Features
 - Convert currencies in real-time
@@ -16,10 +16,9 @@ A simple and interactive Currency Converter built using HTML, CSS, and JavaScrip
 - JavaScript (Fetch API)
 
 ## Preview
-![UI](assets/ui.png)
-
-## Demo Video
-[Watch Here](PASTE_YOUR_VIDEO_LINK)
+![UI](assets/ui(1).png)
+![UI](assets/ui(2).png)
+![UI](assets/ui(3).png)
 
 ## Learnings
 - DOM Manipulation
