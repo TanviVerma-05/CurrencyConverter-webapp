@@ -29,6 +29,6 @@ A simple and interactive "Currency Converter" built using HTML, CSS, and JavaScr
 ## Project Setup
 1. Clone the repo
 ```bash
-[git clone https://github.com/TanviVerma-05/CurrencyConverter-webapp.git]
+git clone https://github.com/TanviVerma-05/CurrencyConverter-webapp.git
 ```
 2. Open 'index.html' in browser
